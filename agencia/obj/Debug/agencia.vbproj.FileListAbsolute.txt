@@ -1,0 +1,48 @@
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\bin\Debug\agencia.exe.config
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\bin\Debug\agencia.exe
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\bin\Debug\agencia.pdb
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\bin\Debug\agencia.xml
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.Form1.resources
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.Form2.resources
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.Resources.resources
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.vbproj.GenerateResource.Cache
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.exe
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.xml
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.pdb
+F:\PROGRAMAS ORIENTADA A OBJETOS\agencia\agencia\obj\Debug\agencia.Form3.resources
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\bin\Debug\agencia.exe.config
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.exe
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.xml
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.pdb
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.Form1.resources
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.Form2.resources
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.Form3.resources
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.Resources.resources
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\obj\Debug\agencia.vbproj.GenerateResource.Cache
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\bin\Debug\agencia.exe
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\bin\Debug\agencia.pdb
+C:\Users\System JTA\Desktop\Eva Temp\Nueva carpeta\agencia\bin\Debug\agencia.xml
+C:\Users\bodega\Desktop\agencia\bin\Debug\agencia.exe.config
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.exe
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.xml
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.pdb
+C:\Users\bodega\Desktop\agencia\bin\Debug\agencia.exe
+C:\Users\bodega\Desktop\agencia\bin\Debug\agencia.pdb
+C:\Users\bodega\Desktop\agencia\bin\Debug\agencia.xml
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.Form1.resources
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.Form2.resources
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.Form3.resources
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.Resources.resources
+C:\Users\bodega\Desktop\agencia\obj\Debug\agencia.vbproj.GenerateResource.Cache
+F:\programacion\visual\agencia\bin\Debug\agencia.exe.config
+F:\programacion\visual\agencia\obj\Debug\agencia.exe
+F:\programacion\visual\agencia\obj\Debug\agencia.xml
+F:\programacion\visual\agencia\obj\Debug\agencia.pdb
+F:\programacion\visual\agencia\bin\Debug\agencia.exe
+F:\programacion\visual\agencia\bin\Debug\agencia.pdb
+F:\programacion\visual\agencia\bin\Debug\agencia.xml
+F:\programacion\visual\agencia\obj\Debug\agencia.Form1.resources
+F:\programacion\visual\agencia\obj\Debug\agencia.Form2.resources
+F:\programacion\visual\agencia\obj\Debug\agencia.Form3.resources
+F:\programacion\visual\agencia\obj\Debug\agencia.Resources.resources
+F:\programacion\visual\agencia\obj\Debug\agencia.vbproj.GenerateResource.Cache
